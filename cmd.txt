@@ -1,0 +1,6 @@
+cmd
+
+.\env\Scripts\activate
+
+
+
